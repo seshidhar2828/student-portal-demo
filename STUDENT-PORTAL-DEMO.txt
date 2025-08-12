@@ -1,0 +1,51 @@
+STUDENT-PORTAL-DEMO
+STUDENT DETAILS
+
+Student Portal Demo – Overview
+The Student Portal Demo presents a simplified, user-friendly interface of a university’s student information system. It highlights how students can efficiently access and manage academic and personal data through a secure online platform.
+
+Key Features
+1. Secure Login
+
+Role-based access for students, faculty, and admin
+Username and password authentication
+2. Student Profile
+
+Full Name
+SUC ID
+Email and Contact Number
+Program, Department, and Year
+Profile Picture and ID card preview
+3. Dashboard
+
+Personalized student overview
+Recent announcements and alerts
+Academic calendar and upcoming events
+4. Course Management
+
+Course registration (add/drop)
+Class schedule and timetable
+Attendance records
+5. Grades & Academic Records
+
+View semester-wise grades
+GPA/CGPA calculation
+Downloadable transcripts
+6. Fee & Payment Information
+
+Detailed fee structure
+Online payment gateway
+Download receipts and statements
+7. Assignments & Examinations
+
+Submit assignments online
+View exam schedule and results
+8. Communication
+
+Internal messaging system
+Notifications from faculty and admin
+Benefits
+Centralized access to academic and administrative information
+Time-saving and easy to navigate
+Improves communication between students and faculty
+Transparent academic progress tracking

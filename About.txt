@@ -1,0 +1,26 @@
+Student Profile
+Student ID: 2358250101
+
+Name: Seshidhar Giduturi
+
+Gender: Male
+
+Date of Birth: 28-05-2005
+
+Email: seshidhar28@gmail.com
+
+Phone: +91 9182155239
+
+Address: Valasapakala, kakinada , Andhra Pradesh
+
+Course: BCA (Computer Science)
+
+Year/Semester: 3rd Year / 5th Semester
+
+Roll Number: 19
+
+Admission Date: 15-07-2023
+
+Guardian Name: Gvs Gopala Krishna
+
+Guardian Contact: +91 9177422040
